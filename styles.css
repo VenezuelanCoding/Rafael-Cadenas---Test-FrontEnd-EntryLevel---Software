@@ -1,0 +1,49 @@
+body{
+		font-family: 'Roboto', sans-serif;
+		background-color: #d3d3d3;
+        font-weight: bold;
+        margin:0px;
+        overflow: auto;
+	}
+
+    section{
+        background-color:blue;
+        width: 100%;
+        background-color: #bababa;
+
+    }
+
+    .cont-sect{
+        font-size: 20px;
+        padding-left: 7%;
+        padding-bottom: 7%
+    }
+
+    .titulos{
+        font-size: 35px;
+
+    }
+
+    #idTipo{
+    width: 8%;
+    }
+
+    table{
+    	width:90%;
+    	text-align: center;
+        padding-top: 
+    }
+
+    table, th, td {
+ 	 	border: 1px solid black;
+	}
+
+    .btnSelect {
+        background-color: green;
+    }
+
+    .btnDelete {
+        background-color: red;
+    }
+
+   
